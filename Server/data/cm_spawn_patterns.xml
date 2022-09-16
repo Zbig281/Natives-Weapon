@@ -1,0 +1,7 @@
+	<pattern probability = "5" substances = "7 25 26" >
+		<family name = "TribeBData" count = "1 1" quality = "100" /> 
+        <family name = "TribeCData" count = "1 1" quality = "100" />
+        <family name = "TribeHData" count = "1 1" quality = "100" />
+        <family name = "TribeMData" count = "1 1" quality = "100" />
+		<family name = "TribeWData" count = "1 1" quality = "100" />      
+    </pattern>	
